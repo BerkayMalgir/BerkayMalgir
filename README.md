@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A passionate game developer/software engineer from Turkey</h3>
+<h3 align="center">A passionate game developer/computer engineer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://time.com/wp-content/uploads/2014/04/basic-donkey.gif?w=500">
 
 - 🔭 I’m currently working on **6ROF Mini Robot Arm**
