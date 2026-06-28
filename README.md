@@ -1,18 +1,88 @@
-<h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A passionate game developer/computer engineer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://time.com/wp-content/uploads/2014/04/basic-donkey.gif?w=500">
+<h1 align="center">Hi, I'm Berkay Malgır</h1>
 
-- 🔭 I’m currently working on **6ROF Mini Robot Arm**
+<h3 align="center">Game Developer • Computer Engineer • XR & AI Researcher</h3>
 
-- 🌱 I’m currently learning **C++**
-
-- 💬 Ask me about **game history and culture**
-
-- 📫 How to reach me **berkaymalgir@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  I develop immersive experiences and intelligent interactive systems by combining
+  <strong>game technologies, extended reality, artificial intelligence, and robotics.</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:berkaymalgir@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### About Me
+
+* Double major graduate in **Digital Game Design** and **Computer Engineering**
+* Working on **XR, VR, AR, and Mixed Reality applications**
+* Interested in **Artificial Intelligence, Human-Computer Interaction, and Procedural Content Generation**
+* Experienced in **robotics, embedded systems, and 3D prototyping**
+* Developing interactive experiences and serious games with **Unity and Unreal Engine**
+* Exploring the use of immersive technologies in **healthcare and medical training**
+* Research interests include **adaptive XR systems, AI-assisted game development, digital twins, and simulation**
+* XR Lab Assistant at **İstinye University**
+* Long-term goal: contributing to research and education as an **academician**
+
+---
+
+### Research Interests
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Extended_Reality-XR-6E40C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-AI-007ACC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Human_Computer_Interaction-HCI-E34F26?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Serious_Games-Research-2EA44F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Robotics-Automation-F7B93E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Digital_Twins-Simulation-00A4EF?style=flat-square"/>
+</p>
+
+---
+
+### Languages and Tools
+
+<p align="left">
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="42" height="42"/>
+  </a>
+  <a href="https://www.unrealengine.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="42" height="42"/>
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C Sharp" width="42" height="42"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="42" height="42"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="42" height="42"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="42" height="42"/>
+  </a>
+</p>
+
+---
+
+### Contact
+
+* **Email:** [berkaymalgir@hotmail.com](mailto:berkaymalgir@hotmail.com)
+* Feel free to contact me about **XR, game development, artificial intelligence, robotics, or academic collaborations.**
